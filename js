@@ -12,7 +12,6 @@ function checkHealth(url) {
 	  });
   }
   
-  // Пример запуска health check URL
-  const url = 'https://www.google.ru'; // замените на нужный URL
+  const url = 'https://www.google.ru'; 
   checkHealth(url);
   
